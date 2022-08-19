@@ -1,12 +1,31 @@
-Welcome to Lumache's documentation!
+Download Livery BUSSID Format PNG
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Livery Bussid <https://rajatips.com/livery-bussid//>`_ adalah template/skin yang bisa mempercantik tampilan bus di game Bus Simulator Indonesia.
+Kamu bisa mendownload ratusan livery dari semua jenis bus di `RajaTips <https://rajatips.com/>`_ atau klik saja link di awal paragraf ini untuk langsung
+menuju ke halaman berisi file livery berformat PNG sesuai keinginanmu.
 
-Check out the :doc:`usage` section for further information, including
+Pengertian Livery
+---------------------
+Secara singkat, livery bisa dikatakan sebuah baju yang digunakan pada sebuah kendaraan, dalam hal ini yaitu BUS (namun bisa saja dipasang di mobil, truk ataupun motor). Kita tahu, semua bus di dunia nyata mempunyai desain body dengan berbagai model sesuai dengan PO (Perusahaan Otobus) masing-masing. Misalnya :
+
+- Sinar Jaya
+- Damri
+- Dewi Sri
+- Haryanto
+- Sudiro Tungga Jaya
+- NPM
+- Dan lain sebagainya.
+
+Nah model dari setiap PO bus itulah yang disebut sebagai **livery**.
+
+Pada game Bus Simulator Indonesia, ada berbagai macam livery yang dibuat secara bebas oleh penggunanya, sehingga membuat game ini makin laris karena *user* bebas berkreasi.
+
+Fungsi Livery
+---------------------
+Dari pengertian singkat diatas seharusnya kita sudah bisa menyimpulkan apa gunanya memasang/menerapkan sebuah livery, yaitu untuk memperindah dan mempercantik tampilan kendaraan, serta menunjukkan sebuah komunitas/
+
+Lihat lebih lanjut :doc:`Usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
