@@ -45,7 +45,7 @@ Untuk penerapannya sendiri bisa berbeda-beda tiap game, tapi berhubung kita seda
 - Pilih livery tersebut
 - Klik **Pasang**
 - Pilih metode gratis atau berbayar (bebas)
-![](rajapage/Pasang%20Livery%20Bussid%20HD.png)
+*Lihat Gambar penjelasannya disini : https://github.com/balkisanton/rajapage/blob/main/Pasang%20Livery%20Bussid%20HD.png*
 
 Lihat lebih lanjut :doc:`Usage` section for further information, including
 how to :ref:`installation` the project.
