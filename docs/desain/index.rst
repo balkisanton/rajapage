@@ -18,4 +18,20 @@ Dalam belajar desain grafis, kita perlu meluangkan waktu dan siap berproses deng
 
 Maka, sebaiknya ikuti beberapa tips dibawah ini untuk belajar desain grafis :
 
-1. 
+1. Pahami Geometri & Bentuk Dasar
+
+Hal pertama yang perlu kamu asah adalah mengenali dan mencoba menciptakan berbagai bentuk geometri yang ada. Mulai dari membuat kotak berbentuk persegi, persegi panjang, segitiga, segi lima, segi enam, dan segi empat tapi di pinggir-pinggirnya melengkung.
+
+Lalu mulailah buat bentuk yang lebih kompleks lagi, misal dengan bentuk belahketupat, bentuk custom (sesuai keinginan), bentuk 3D, hingga membuat bayangan simpel.
+
+Lakukan itu sampai benar-benar mahir, karena salah satu kunci utama-nya ada disini.
+
+2. Belajar Sesuai Kebutuhan
+
+Tips kedua yang bisa kamu terapkan adalah belajarlah sesuai kebutuhan saja. Misalnya kamu butuh membuat kotak dengan efek neon, maka cari tutorialnya yang sesuai dengan tujuan. Jika kamu belajar sesuai kebutuhan, maka ingatan akan lebih kuat dan belajarmu akan menjadi lebih efektif.
+
+Tapi kebanyakan orang bingung saat menentukan sebuah konsep desain dan rancangannya, jadi masalah kedua adalah bagaimana menemukan idenya?
+
+Well, kamu bisa simak tips dan `cara menjadi kreatif <https://sampainanti.com/cara-menjadi-kreatif/>`_ yang telah saya bahas sebelumnya.
+
+3. 
