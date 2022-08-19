@@ -28,7 +28,7 @@ Nah model dari setiap PO bus itulah yang disebut sebagai **livery**.
 
 Livery pada game Bus Simulator Indonesia dapat dibuat secara bebas oleh pengguna yang memainkannya, sehingga membuat game ini tetap hidup karena *user* bebas berkreasi dan menuangkan ide maupun kreatifitasnya.
 
-Fungsi Livery
+Fungsi & Kegunaan Livery
 ---------------------
 Dari pengertian singkat diatas seharusnya kita sudah bisa menyimpulkan apa gunanya memasang/menerapkan sebuah livery, yaitu untuk memperindah dan mempercantik tampilan kendaraan, serta menunjukkan bahwa kita mewakili sebuah komunitas/organisasi tertentu (dalam hal ini yaitu PO Bus).
 
@@ -36,7 +36,7 @@ Bahkan jika kita membuat sebuah komunitas, katakanlah komunitas itu bernama **BU
 
 Tapi pada intinya, livery ini erat hubungannya dengan estetika atau keindahan visual.
 
-Jenis Livery
+Jenis - Jenisnya
 ---------------------
 Livery ini bisa diterapkan dimana saja, bahkan di kendaraan yang ada di dunia nyata sekalipun. Tapi karena kita sedang membahas Bus Simulator Indonesia, maka saya tidak akan menyebutkan yang diluar topik.
 
@@ -54,7 +54,7 @@ Dari daftar diatas, seharusnya jenis livery untuk bus ORI di BUSSID hanya ada 6 
 
 Sehingga jika kamu menemukan berbagai livery yang tidak cocok saat dipasang di BUS Original maka bisa dipastikan itu adalah skin untuk kendaraan MOD. Jadi, kalau mau download MOD jangan lupa sekalian skinnya, daripada repot nyari-nyari yang pas nantinya.
 
-Penerapan Livery
+Penerapan
 ---------------------
 Untuk penerapannya sendiri bisa berbeda-beda tiap game. Tapi berhubung kita sedang membahas livery pada game Bus Simulator Indonesia, maka mari kita bahas cara pemasangannya di game tersebut.
 
@@ -75,11 +75,11 @@ Berikut langkah-langkahnya :
 
 *Lihat Gambar penjelasannya disini : https://raw.githubusercontent.com/balkisanton/rajapage/main/gambar/Pasang%20Livery%20Bussid%20HD.png*
 
-Link Download
+Link Download Livery Bussid
 ---------------------
 Kamu bisa mendownload kumpulan livery dari segala jenis bus maupun MOD pada link awal paragraf halaman ini, atau langsung menuju ke : https://rajatips.com/livery-bussid/
 
-Bagaimana Cara Membuat Livery Sendiri?
+Bagaimana Cara Membuatnya Sendiri?
 ---------------------
 Untuk membuat livery sendiri, kita membutuhkan sebuah template sesuai dengan jenis bus ataupun MOD yang ingin kita buat livery-nya. Template tersebut bisa didapat dari halaman resmi BUSSID (untuk bus originalnya), sedangkan template MOD biasanya disediakan langsung oleh si pembuat MOD-nya. Atau simpelnya, ya minta saja kepada si pembuat MOD kendaraan tersebut.
 
