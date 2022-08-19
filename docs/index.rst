@@ -87,6 +87,8 @@ Tapi jika kamu download dari sumber yang saya sediakan, didalamnya sudah saya se
 
 Nah jika template sudah disiapkan, selanjutnya kamu perlu melakukan desain (harus bisa desain). Kalau belum ya belajar dulu, lagipula kalau nggak jago desain juga tinggal tempel-tempel gambar yang sudah bertebaran di Google.
 
+Atau jika kamu hanya ingin menambah tempelan atau stiker tertentu di bagian kaca, cek disini : https://rajatips.com/stiker-bussid/
+
 Kesimpulan
 ---------------------
 Pada intinya, kita bermain game untuk bersenang-senang. Dan salah satu kesenangan yang sulit hilang adalah ketika kita bisa (dan) diperbolehkan menuangkan segala kreatifitas, ide serta imajinasi kedalam game tersebut. Dalam hal ini yaitu pemasangan livery yang begitu banyak pilihannya.
