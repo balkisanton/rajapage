@@ -83,17 +83,9 @@ Dengan memasang livery, bermain game terasa lebih menyenangkan dan tidak membosa
 
 Oke, selamat menikmati game kesayangan kamu dan jangan lupa share ke teman-teman yang lain ya :)
 
-Lihat lebih lanjut :doc:`Usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
 Contents
 --------
-
 .. toctree::
 
-   usage
-   api
+   desain/index
+   trik-facebook/index
