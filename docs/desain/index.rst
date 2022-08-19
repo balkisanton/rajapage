@@ -30,7 +30,7 @@ Lakukan itu sampai benar-benar mahir, karena salah satu kunci utama-nya ada disi
 2. Belajar Sesuai Kebutuhan
 .........................
 
-Tips kedua yang bisa kamu terapkan adalah belajarlah sesuai kebutuhan saja. Misalnya kamu butuh membuat kotak dengan efek neon, maka cari tutorialnya yang sesuai dengan tujuan. Jika kamu belajar sesuai kebutuhan, maka ingatan akan lebih kuat dan belajarmu akan menjadi lebih efektif.
+Tips kedua yang bisa kamu terapkan adalah belajarlah sesuai kebutuhan saja. Misalnya kamu butuh membuat kotak dengan efek neon, maka cari tutorialnya yang sesuai dengan tujuan, atau misalnya `cara mengganti background di photoshop <https://rajatips.com/cara-mengganti-background-di-photoshop/>`_. Jika kamu belajar sesuai kebutuhan, maka ingatan akan lebih kuat dan belajarmu akan menjadi lebih efektif.
 
 Tapi kebanyakan orang bingung saat menentukan sebuah konsep desain dan rancangannya, jadi masalah kedua adalah bagaimana menemukan idenya?
 
