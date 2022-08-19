@@ -17,7 +17,7 @@ Nah dari segala bentuk pembatasan baru yang diterapkan facebook ini, cukup membu
 Maka di artikel ini saya akan menunjukkan beberapa cara yang bisa kalian gunakan sebagai alternatif jika sedang mendesak ingin menyimpan video Facebook ke galeri.
 
 Download Video Facebook
-===================================
+-------------------------
 Sebenarnya cara ini sudah pernah dijelaskan pada artikel tentang cara download video FB dan dibahas secara singkat dan jelas (link ada di awal paragraf) menggunakan suatu alat/tools. Di alat tersebut, kita juga bisa mendownload video reels yang sekarang telah disematkan di Facebook.
 
 Pada intinya, kita hanya perlu :
@@ -30,13 +30,13 @@ Pada intinya, kita hanya perlu :
 - Klik tombol Download dan video berhasil tersimpan ke galeri
 
 Download Story Facebook
-===================================
+-------------------------
 Namun di alat tersebut, belum ada alat yang mendukung pengguna untuk mengunduh story atau cerita dari Facebook. Tapi ini juga sudah saya bahas secara terpisah pada artikel tentang cara `download story facebook <https://rajatips.com/download-story-facebook/>`_.
 
 Jadi, saya tidak perlu mengulang lagi disini. Lagipula susah mau nempelin gambarnya :D
 
 Penutup & Tambahan
-===================================
+-------------------------
 Okelah, mungkin itu aja yang bisa saya sampaikan (gajelas banget ya).
 
 Eh bentar, ada yang ketinggalan. Mungkin kalian perlu mengetahui gimana tips supaya akun FB aman sentosa = https://rajatips.com/mengamankan-akun-facebook/
