@@ -23,7 +23,11 @@ Pada game Bus Simulator Indonesia, ada berbagai macam livery yang dibuat secara 
 
 Fungsi Livery
 ---------------------
-Dari pengertian singkat diatas seharusnya kita sudah bisa menyimpulkan apa gunanya memasang/menerapkan sebuah livery, yaitu untuk memperindah dan mempercantik tampilan kendaraan, serta menunjukkan sebuah komunitas/
+Dari pengertian singkat diatas seharusnya kita sudah bisa menyimpulkan apa gunanya memasang/menerapkan sebuah livery, yaitu untuk memperindah dan mempercantik tampilan kendaraan, serta menunjukkan bahwa kita mewakili sebuah komunitas/organisasi tertentu (dalam hal ini yaitu PO Bus).
+
+Bahkan jika kita membuat sebuah komunitas, katakanlah komunitas itu bernama **BUSSID PURBALINGGA**, lalu salah seorang dalam anggota grup itu membuat sebuah desain livery secara khusus yang dibagikan ke seluruh anggota untuk mengenakannya, maka livery tersebut bisa berfungsi untuk merepresentasikan organisasi tersebut, sehingga memberikan kebanggaan tersendiri.
+
+Secara keseluruhan, livery ini erat hubungannya dengan estetika atau keindahan visual.
 
 Lihat lebih lanjut :doc:`Usage` section for further information, including
 how to :ref:`installation` the project.
