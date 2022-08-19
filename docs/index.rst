@@ -83,6 +83,8 @@ Dengan memasang livery, bermain game terasa lebih menyenangkan dan tidak membosa
 
 Oke, selamat menikmati game kesayangan kamu dan jangan lupa share ke teman-teman yang lain ya :)
 
+Salam, `Anton JR <https://antonjr.com/>`_ 
+
 Contents
 --------
 .. toctree::
