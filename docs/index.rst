@@ -89,7 +89,7 @@ Nah jika template sudah disiapkan, selanjutnya kamu perlu melakukan desain (haru
 
 Kesimpulan
 ---------------------
-Pada intinya, kita bermain game untuk bersenang-senang. Dan salah satu kesenangan yang sulit hilang adalah ketika kita bisa dan diperbolehkan menuangkan segala kreatifitas, ide dan imajinasi kedalam game tersebut. Dalam hal ini yaitu pemasangan livery yang begitu banyak pilihannya.
+Pada intinya, kita bermain game untuk bersenang-senang. Dan salah satu kesenangan yang sulit hilang adalah ketika kita bisa (dan) diperbolehkan menuangkan segala kreatifitas, ide serta imajinasi kedalam game tersebut. Dalam hal ini yaitu pemasangan livery yang begitu banyak pilihannya.
 
 Dengan memasang livery, bermain game terasa lebih menyenangkan dan tidak membosankan. Apalagi BUSSID bisa bermain secara multiplayer (main bareng), jadi kalau satu kelompok berkonvoi menggunakan bus dan livery yang sama, pasti akan terasa membanggakan.
 
