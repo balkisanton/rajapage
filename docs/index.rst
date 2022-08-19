@@ -7,7 +7,9 @@ menuju ke halaman berisi file livery berformat PNG sesuai keinginanmu.
 
 Pengertian Livery
 ---------------------
-Secara singkat, livery bisa dikatakan sebuah baju yang digunakan pada sebuah kendaraan, dalam hal ini yaitu BUS (namun bisa saja dipasang di mobil, truk ataupun motor). Kita tahu, semua bus di dunia nyata mempunyai desain body dengan berbagai model sesuai dengan PO (Perusahaan Otobus) masing-masing. Misalnya :
+Secara singkat, livery bisa dikatakan sebuah baju yang digunakan pada sebuah kendaraan, dalam hal ini yaitu BUS (namun bisa saja dipasang di mobil, truk ataupun motor).
+
+Kita tahu, semua bus di dunia nyata mempunyai desain body dengan berbagai model sesuai dengan PO (Perusahaan Otobus) masing-masing. Misalnya :
 
 - Sinar Jaya
 - Damri
@@ -24,7 +26,7 @@ Secara singkat, livery bisa dikatakan sebuah baju yang digunakan pada sebuah ken
 
 Nah model dari setiap PO bus itulah yang disebut sebagai **livery**.
 
-Livery pada game Bus Simulator Indonesia dapat dibuat secara bebas oleh pengguna yang memainkannya, sehingga membuat game ini tetap hidup karena *user* bebas berkreasi dan bisa menuangkan ide maupun kreatifitasnya.
+Livery pada game Bus Simulator Indonesia dapat dibuat secara bebas oleh pengguna yang memainkannya, sehingga membuat game ini tetap hidup karena *user* bebas berkreasi dan menuangkan ide maupun kreatifitasnya.
 
 Fungsi Livery
 ---------------------
@@ -32,7 +34,7 @@ Dari pengertian singkat diatas seharusnya kita sudah bisa menyimpulkan apa gunan
 
 Bahkan jika kita membuat sebuah komunitas, katakanlah komunitas itu bernama **BUSSID PURBALINGGA**, lalu salah seorang dalam anggota grup itu membuat sebuah desain livery secara khusus yang dibagikan ke seluruh anggota untuk mengenakannya, maka livery tersebut bisa berfungsi untuk merepresentasikan organisasi tersebut, sehingga memberikan kebanggaan tersendiri.
 
-Secara keseluruhan, livery ini erat hubungannya dengan estetika atau keindahan visual.
+Tapi pada intinya, livery ini erat hubungannya dengan estetika atau keindahan visual.
 
 Jenis Livery
 ---------------------
@@ -54,9 +56,11 @@ Sehingga jika kamu menemukan berbagai livery yang tidak cocok saat dipasang di B
 
 Penerapan Livery
 ---------------------
-Untuk penerapannya sendiri bisa berbeda-beda tiap game. Tapi berhubung kita sedang membahas livery pada game Bus Simulator Indonesia, maka mari kita bahas cara pemasangannya di game tersebut. Berikut langkah-langkah pemasangannya :
+Untuk penerapannya sendiri bisa berbeda-beda tiap game. Tapi berhubung kita sedang membahas livery pada game Bus Simulator Indonesia, maka mari kita bahas cara pemasangannya di game tersebut.
 
-- Siapkan file livery-nya sesuai kebutuhan (mau dipasang di bus apa) dan simpan di tempat yang mudah ditemukan (misalnya di folder **Download** di Android)
+Berikut langkah-langkahnya :
+
+- Siapkan file livery-nya sesuai kebutuhan (mau dipasang di bus apa) dan simpan di tempat yang mudah ditemukan (misalnya di folder **Download** di HP Android)
 - Buka game **Bus Simulator Indonesia**
 - Jangan lupa koneksikan ke internet
 - Pilih menu **Garasi**
@@ -75,6 +79,14 @@ Link Download
 ---------------------
 Kamu bisa mendownload kumpulan livery dari segala jenis bus maupun MOD pada link awal paragraf halaman ini, atau langsung menuju ke : https://rajatips.com/livery-bussid/
 
+Bagaimana Cara Membuat Livery Sendiri?
+---------------------
+Untuk membuat livery sendiri, kita membutuhkan sebuah template sesuai dengan jenis bus ataupun MOD yang ingin kita buat livery-nya. Template tersebut bisa didapat dari halaman resmi BUSSID (untuk bus originalnya), sedangkan template MOD biasanya disediakan langsung oleh si pembuat MOD-nya. Atau simpelnya, ya minta saja kepada si pembuat MOD kendaraan tersebut.
+
+Tapi jika kamu download dari sumber yang saya sediakan, didalamnya sudah saya sediakan template sekaligus, jadi nggak perlu nyari kesana-kemari.
+
+Nah jika template sudah disiapkan, selanjutnya kamu perlu melakukan desain (harus bisa desain). Kalau belum ya belajar dulu, lagipula kalau nggak jago desain juga tinggal tempel-tempel gambar yang sudah bertebaran di Google.
+
 Kesimpulan
 ---------------------
 Pada intinya, kita bermain game untuk bersenang-senang. Dan salah satu kesenangan yang sulit hilang adalah ketika kita bisa dan diperbolehkan menuangkan segala kreatifitas, ide dan imajinasi kedalam game tersebut. Dalam hal ini yaitu pemasangan livery yang begitu banyak pilihannya.
@@ -83,7 +95,7 @@ Dengan memasang livery, bermain game terasa lebih menyenangkan dan tidak membosa
 
 Oke, selamat menikmati game kesayangan kamu dan jangan lupa share ke teman-teman yang lain ya :)
 
-Salam, `Anton JR <https://antonjr.com/>`_ 
+Salam, `Anton JR <https://antonjr.com/>`_
 
 Contents
 --------
