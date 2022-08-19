@@ -19,6 +19,7 @@ Dalam belajar desain grafis, kita perlu meluangkan waktu dan siap berproses deng
 Maka, sebaiknya ikuti beberapa tips dibawah ini untuk belajar desain grafis :
 
 1. Pahami Geometri & Bentuk Dasar
+.........................
 
 Hal pertama yang perlu kamu asah adalah mengenali dan mencoba menciptakan berbagai bentuk geometri yang ada. Mulai dari membuat kotak berbentuk persegi, persegi panjang, segitiga, segi lima, segi enam, dan segi empat tapi di pinggir-pinggirnya melengkung.
 
@@ -27,6 +28,7 @@ Lalu mulailah buat bentuk yang lebih kompleks lagi, misal dengan bentuk belahket
 Lakukan itu sampai benar-benar mahir, karena salah satu kunci utama-nya ada disini.
 
 2. Belajar Sesuai Kebutuhan
+.........................
 
 Tips kedua yang bisa kamu terapkan adalah belajarlah sesuai kebutuhan saja. Misalnya kamu butuh membuat kotak dengan efek neon, maka cari tutorialnya yang sesuai dengan tujuan. Jika kamu belajar sesuai kebutuhan, maka ingatan akan lebih kuat dan belajarmu akan menjadi lebih efektif.
 
@@ -35,6 +37,7 @@ Tapi kebanyakan orang bingung saat menentukan sebuah konsep desain dan rancangan
 Well, kamu bisa simak tips dan `cara menjadi kreatif <https://sampainanti.com/cara-menjadi-kreatif/>`_ yang telah saya bahas sebelumnya.
 
 3. Lakukan Secara Terus-Menerus
+.........................
 
 Jangan mimpi ketinggian tapi tidak diimbangi dengan aksi yang sepadan. Orang yang jenius sekalipun jika menghadapi bidang yang baru maka dia perlu meluangkan waktu untuk mempelajari seluk-beluknya.
 
@@ -47,6 +50,7 @@ Luangkanlah waktu selama 3x dalam 1 minggu (misalnya) untuk belajar desain jika 
 Untuk bisa mengatur waktu dengan baik, mungkin kamu perlu melihat `tutorial todoist <https://rajatips.com/todoist/>`_.
 
 4. Kuantitas Menghasilkan Kualitas
+.........................
 
 Banyak orang ingin mengerjakan sesuatu yang hebat sekaligus, kalau sekiranya ada kekurangan sedikit malah tidak dikerjakan sama sekali.
 
@@ -59,4 +63,5 @@ Hasilnya begitu mengejutkan, ternyata kelompok ke-2 yang mana mengutamakan kuant
 Ini menjadi bukti bahwa kualitas tercipta dari orang yang mengerjakan sesuatu tanpa memikirkan akan bagus atau tidak hasilnya nanti, yang penting mulai dulu. Karena secara otomatis tingkat kewaspadaan kita akan meningkat seiring waktu saat kita mengerjakan sesuatu berkali-kali.
 
 5. Mulai Beraksi
+.........................
 
