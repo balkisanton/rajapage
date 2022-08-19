@@ -67,3 +67,8 @@ Ini menjadi bukti bahwa kualitas tercipta dari orang yang mengerjakan sesuatu ta
 Sebenarnya saya bisa saja menyebutkan lebih banyak poin untuk mahir belajar desain grafis. Tapi apalah gunanya ilmu kalau tidak diamalkan, sekarang kamu harus mulai mencoba sesuatu.
 
 Jika dibutuhkan, kamu bisa targetkan skill desainmu untuk menjual mockup desain. `Mockup adalah <https://rajatips.com/mockup/>`_ salah satu jenis desain yang bisa kamu jadikan target setelah menguasai skill desain. Kamu bisa menjual hasil karyamu dan mendapatkan uang jajan tambahan.
+
+**Referensi:**
+
+- `Aplikasi edit foto terbaik <https://rajatips.com/aplikasi-edit-foto-android-terbaik/>`_
+- `Anton JR <https://antonjr.com>`_
