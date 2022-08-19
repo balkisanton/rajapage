@@ -50,7 +50,8 @@ Untuk penerapannya sendiri bisa berbeda-beda tiap game, tapi berhubung kita seda
 - Pilih livery tersebut
 - Klik **Pasang**
 - Pilih metode gratis atau berbayar (bebas)
-*Lihat Gambar penjelasannya disini : https://github.com/balkisanton/rajapage/blob/main/Pasang%20Livery%20Bussid%20HD.png*
+
+![cara pasang livery bussid](https://github.com/[balkisanton]/[rajapage]/blob/[gambar]/Pasang%20Livery%20Bussid%20HD.png?raw=true)
 
 Link Download
 ---------------------
