@@ -54,7 +54,7 @@ Sehingga jika kamu menemukan berbagai livery yang tidak cocok saat dipasang di B
 
 Penerapan Livery
 ---------------------
-Untuk penerapannya sendiri bisa berbeda-beda tiap game, tapi berhubung kita sedang membahas livery pada game Bus Simulator Indonesia maka ini cukup mudah. Kurang lebih langkah-langkahnya sebagai berikut :
+Untuk penerapannya sendiri bisa berbeda-beda tiap game. Tapi berhubung kita sedang membahas livery pada game Bus Simulator Indonesia, maka mari kita bahas cara pemasangannya di game tersebut. Berikut langkah-langkah pemasangannya :
 
 - Siapkan file livery-nya sesuai kebutuhan (mau dipasang di bus apa) dan simpan di tempat yang mudah ditemukan (misalnya di folder **Download** di Android)
 - Buka game **Bus Simulator Indonesia**
