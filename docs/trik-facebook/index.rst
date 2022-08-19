@@ -31,10 +31,14 @@ Pada intinya, kita hanya perlu :
 
 Download Story Facebook
 ===================================
-Namun di alat tersebut, belum ada alat yang mendukung pengguna untuk mengunduh story atau cerita dari Facebook. Tapi ini juga sudah saya bahas secara terpisah pada artikel tentang https://rajatips.com/download-story-facebook/.
+Namun di alat tersebut, belum ada alat yang mendukung pengguna untuk mengunduh story atau cerita dari Facebook. Tapi ini juga sudah saya bahas secara terpisah pada artikel tentang cara `download story facebook <https://rajatips.com/download-story-facebook/>`_.
 
 Jadi, saya tidak perlu mengulang lagi disini. Lagipula susah mau nempelin gambarnya :D
 
-Penutup
+Penutup & Tambahan
 ===================================
-Okelah, mungkin itu aja yang bisa saya sampaikan (gajelas banget ya). Oke, semoga bermanfaat dan sampai jumpa lagi di lain postingan :)
+Okelah, mungkin itu aja yang bisa saya sampaikan (gajelas banget ya).
+
+Eh bentar, ada yang ketinggalan. Mungkin kalian perlu mengetahui gimana tips supaya akun FB aman sentosa = https://rajatips.com/mengamankan-akun-facebook/
+
+Udah itu aja. Sekian, semoga bermanfaat dan sampai jumpa lagi di lain postingan :)
