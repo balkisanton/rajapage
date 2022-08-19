@@ -34,6 +34,24 @@ Bahkan jika kita membuat sebuah komunitas, katakanlah komunitas itu bernama **BU
 
 Secara keseluruhan, livery ini erat hubungannya dengan estetika atau keindahan visual.
 
+Jenis Livery
+---------------------
+Livery ini bisa diterapkan dimana saja, bahkan di kendaraan yang ada di dunia nyata sekalipun. Tapi karena kita sedang membahas Bus Simulator Indonesia, maka saya tidak akan menyebutkan yang diluar topik.
+
+Berikut jenis-jenisnya :
+
+1. JB HD (Yudistira HD)
+2. JB 2+SHD (Nakula SHD)
+3. JB 3+SHD (Sadewa SHD)
+4. Arjuna XHD
+5. Bimasena SDD
+6. Srikandi SHD
+7. Dan livery untuk berbagai kendaraan MOD yang dibuat oleh pengguna umum
+
+Dari daftar diatas, seharusnya jenis livery untuk bus ORI di BUSSID hanya ada 6 jenis, bahkan untuk JB 2+SHD dan 3+SHD malah kadang bisa dipakai secara bersamaan. Tapi diluar 6 jenis itu, masih banyak sekali livery yang bertebaran karena MOD Bussid ada bermacam-macam.
+
+Sehingga jika kamu menemukan berbagai livery yang tidak cocok saat dipasang di BUS Original maka bisa dipastikan itu adalah skin untuk kendaraan MOD. Jadi, kalau mau download MOD jangan lupa sekalian skinnya, daripada repot nyari-nyari yang pas nantinya.
+
 Penerapan Livery
 ---------------------
 Untuk penerapannya sendiri bisa berbeda-beda tiap game, tapi berhubung kita sedang membahas livery pada game Bus Simulator Indonesia maka ini cukup mudah. Kurang lebih langkah-langkahnya sebagai berikut :
