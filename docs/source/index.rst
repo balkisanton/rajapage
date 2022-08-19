@@ -29,6 +29,25 @@ Bahkan jika kita membuat sebuah komunitas, katakanlah komunitas itu bernama **BU
 
 Secara keseluruhan, livery ini erat hubungannya dengan estetika atau keindahan visual.
 
+Penerapan Livery
+---------------------
+Untuk penerapannya sendiri bisa berbeda-beda tiap game, tapi berhubung kita sedang membahas livery pada game Bus Simulator Indonesia maka ini cukup mudah. Kurang lebih langkah-langkahnya sebagai berikut :
+
+- Siapkan file livery-nya sesuai kebutuhan (mau dipasang di bus apa) dan simpan di tempat yang mudah ditemukan (misalnya di folder **Download** di Android)
+- Buka game **Bus Simulator Indonesia**
+- Jangan lupa koneksikan ke internet
+- Pilih menu **Garasi**
+- Di bagian atas, klik ikon lukis (yang ke-2)
+- Centang **Resolusi Tinggi**
+- Klik **Pilih Berkas Livery**
+- Pilih **File Manager**
+- Temukan file livery yang sebelumnya telah disiapkan
+- Pilih livery tersebut
+- Klik **Pasang**
+- Pilih metode gratis atau berbayar (bebas)
+
+
+
 Lihat lebih lanjut :doc:`Usage` section for further information, including
 how to :ref:`installation` the project.
 
