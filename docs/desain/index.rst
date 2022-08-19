@@ -34,4 +34,29 @@ Tapi kebanyakan orang bingung saat menentukan sebuah konsep desain dan rancangan
 
 Well, kamu bisa simak tips dan `cara menjadi kreatif <https://sampainanti.com/cara-menjadi-kreatif/>`_ yang telah saya bahas sebelumnya.
 
-3. 
+3. Lakukan Secara Terus-Menerus
+
+Jangan mimpi ketinggian tapi tidak diimbangi dengan aksi yang sepadan. Orang yang jenius sekalipun jika menghadapi bidang yang baru maka dia perlu meluangkan waktu untuk mempelajari seluk-beluknya.
+
+Apalagi sebagai pemula, jangan sampai baru latihan sekali udah nyerah begitu saja. Berharap jadi jagoan selama 1 malam.
+
+Jangan hidup di dunia dongeng, sebagai manusia normal kita butuh waktu dan usaha yang maksimal untuk bisa menguasai sesuatu. Maka kunci yang lain adalah konsistensi.
+
+Luangkanlah waktu selama 3x dalam 1 minggu (misalnya) untuk belajar desain jika kamu memang benar-benar ingin menguasainya.
+
+Untuk bisa mengatur waktu dengan baik, mungkin kamu perlu melihat `tutorial todoist <https://rajatips.com/todoist/>`_.
+
+4. Kuantitas Menghasilkan Kualitas
+
+Banyak orang ingin mengerjakan sesuatu yang hebat sekaligus, kalau sekiranya ada kekurangan sedikit malah tidak dikerjakan sama sekali.
+
+Penyakit ini juga menempel di pikiran saya sejak lama. Tapi itu dulu, sekarang saya sedikit bisa mengatasinya.
+
+Intinya, dalam sebuah riset di US (atau mana, lupa) ada 2 kelompok yang disuruh untuk membuat suatu pot (atau apalah, lupa juga), tapi intinya salah satu kelompok disuruh membuat sesuatu yang bagus (harus mengutamakan kualitas), dan yang satunya lagi disuruh membuat sebanyak-banyaknya (artinya kualitas tidak diperlukan disini).
+
+Hasilnya begitu mengejutkan, ternyata kelompok ke-2 yang mana mengutamakan kuantitas (bukan kualitas) malah menang telak. Udah banyak, juga jauh berkualitas daripada yang sengaja membuat sesuatu itu lebih sempurna.
+
+Ini menjadi bukti bahwa kualitas tercipta dari orang yang mengerjakan sesuatu tanpa memikirkan akan bagus atau tidak hasilnya nanti, yang penting mulai dulu. Karena secara otomatis tingkat kewaspadaan kita akan meningkat seiring waktu saat kita mengerjakan sesuatu berkali-kali.
+
+5. Mulai Beraksi
+
