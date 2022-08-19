@@ -11,15 +11,20 @@ Secara singkat, livery bisa dikatakan sebuah baju yang digunakan pada sebuah ken
 
 - Sinar Jaya
 - Damri
+- ALS
 - Dewi Sri
+- Sugeng Rahayu
+- Sumber Jaya
+- Handoyo
 - Haryanto
+- Budiman
 - Sudiro Tungga Jaya
 - NPM
-- Dan lain sebagainya.
+- Dan lain sebagainya
 
 Nah model dari setiap PO bus itulah yang disebut sebagai **livery**.
 
-Pada game Bus Simulator Indonesia, ada berbagai macam livery yang dibuat secara bebas oleh penggunanya, sehingga membuat game ini makin laris karena *user* bebas berkreasi.
+Livery pada game Bus Simulator Indonesia dapat dibuat secara bebas oleh pengguna yang memainkannya, sehingga membuat game ini tetap hidup karena *user* bebas berkreasi dan bisa menuangkan ide maupun kreatifitasnya.
 
 Fungsi Livery
 ---------------------
@@ -47,6 +52,17 @@ Untuk penerapannya sendiri bisa berbeda-beda tiap game, tapi berhubung kita seda
 - Pilih metode gratis atau berbayar (bebas)
 *Lihat Gambar penjelasannya disini : https://github.com/balkisanton/rajapage/blob/main/Pasang%20Livery%20Bussid%20HD.png*
 
+Link Download
+---------------------
+Kamu bisa mendownload kumpulan livery dari segala jenis bus maupun MOD pada link awal paragraf halaman ini, atau langsung menuju ke : https://rajatips.com/livery-bussid/
+
+Kesimpulan
+---------------------
+Pada intinya, kita bermain game untuk bersenang-senang. Dan salah satu kesenangan yang sulit hilang adalah ketika kita bisa dan diperbolehkan menuangkan segala kreatifitas, ide dan imajinasi kedalam game tersebut. Dalam hal ini yaitu pemasangan livery yang begitu banyak pilihannya.
+
+Dengan memasang livery, bermain game terasa lebih menyenangkan dan tidak membosankan. Apalagi BUSSID bisa bermain secara multiplayer (main bareng), jadi kalau satu kelompok berkonvoi menggunakan bus dan livery yang sama, pasti akan terasa membanggakan.
+
+Oke, selamat menikmati game kesayangan kamu dan jangan lupa share ke teman-teman yang lain ya :)
 
 Lihat lebih lanjut :doc:`Usage` section for further information, including
 how to :ref:`installation` the project.
