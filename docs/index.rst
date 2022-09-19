@@ -87,7 +87,7 @@ Tapi jika kamu download dari sumber yang saya sediakan, didalamnya sudah saya se
 
 Nah jika template sudah disiapkan, selanjutnya kamu perlu melakukan desain (harus bisa desain). Kalau belum ya belajar dulu, lagipula kalau nggak jago desain juga tinggal tempel-tempel gambar yang sudah bertebaran di Google.
 
-Atau jika kamu hanya ingin menambah tempelan atau stiker tertentu di bagian kaca, cek disini : https://rajatips.com/stiker-bussid/
+Atau jika kamu hanya ingin menambah tempelan atau stiker tertentu di bagian kaca, cek `stiker bus simulator <https://rajatips.com/stiker-bus-simulator/>`_
 
 Kesimpulan
 ---------------------
