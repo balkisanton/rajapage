@@ -39,6 +39,6 @@ Penutup & Tambahan
 -------------------------
 Okelah, mungkin itu aja yang bisa saya sampaikan (gajelas banget ya).
 
-Eh bentar, ada yang ketinggalan. Mungkin kalian perlu mengetahui gimana tips supaya akun FB aman sentosa = https://rajatips.com/mengamankan-akun-facebook/
+Eh bentar, ada yang ketinggalan. Mungkin kalian perlu mengetahui gimana rahasia atau `cara menghilangkan iklan di facebook <https://rajatips.com/cara-menghilangkan-iklan-di-facebook/>`_ agar tidak ada iklan yang mengganggu saat scrolling :), have fun.
 
 Udah itu aja. Sekian, semoga bermanfaat dan sampai jumpa lagi di lain postingan :)
